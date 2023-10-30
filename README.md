@@ -4,10 +4,7 @@
 </br> I am currently student at Bellevue College Majored in Computer Engineering
 
 [![Linkedin: jiwonoh](https://img.shields.io/badge/-jiwonoh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwon-oh-9b5029193/)](www.linkedin.com/in/jiwon-oh-9b5029193/)
-[![GitHub jiwon](https://img.shields.io/github/followers/jiwon-jane-oh)](https://github.com/jiwon-jane-oh)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const jiwon = {

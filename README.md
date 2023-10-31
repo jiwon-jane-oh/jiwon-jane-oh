@@ -1,7 +1,10 @@
 <h2> Hi, I'm Jiwon !</h2>
-<img align='right' src="" width="230">
 <p><em> I am a Front-End Developer 
 </br> I am currently student at Bellevue College Majored in Computer Engineering
+
+
+ 
+
 
 [![Linkedin: jiwonoh](https://img.shields.io/badge/-jiwonoh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwon-oh-9b5029193/)](www.linkedin.com/in/jiwon-oh-9b5029193/)
 
